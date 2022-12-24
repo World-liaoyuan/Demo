@@ -1,0 +1,3 @@
+print("this form local computer")
+omg 
+it's easy
